@@ -184,15 +184,15 @@ A experiência demonstrou que o desenvolvimento de software envolve **análise, 
 
 ## Autor
 
-**Renan Alves da Silva______________________________________________**
+**Renan Alves da Silva**
 
-Curso: **Superior Analise e Desenvolvimento de Sistemas______________________________________**
+Curso: **Superior Analise e Desenvolvimento de Sistemas**
 
-Instituição: **Cruzeiro do Sul________________________________**
+Instituição: **Cruzeiro do Sul**
 
-Disciplina: **Design Profissional_________________________________**
+Disciplina: **Design Profissional**
 
-Ano/Semestre: **2026/2ºsemestre_______________________________**
+Ano/Semestre: **2026/2ºsemestre**
 
 ---
 
